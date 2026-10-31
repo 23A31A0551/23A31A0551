@@ -87,14 +87,15 @@ An IoT project focused on monitoring vehicles and detecting possible fuel theft.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=23A31A0551&show_icons=true&theme=tokyonight&hide_border=true" />
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View%20My%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/23A31A0551)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23A31A0551&layout=compact&theme=tokyonight&hide_border=true" />
+[![Repositories](https://img.shields.io/badge/Explore-My%20Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/23A31A0551?tab=repositories)
 
 </div>
-
 ---
 
 <div align="center">
